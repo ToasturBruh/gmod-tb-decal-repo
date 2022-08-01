@@ -1,0 +1,16 @@
+vertexlitgeneric
+{
+
+    $basetexture "models/logos/railroads/f_cprs/style_2/font/let/let_j"
+
+    $alphatest 1
+    $alphatestreference 0.5
+    $allowalphatocoverage 1
+
+}
+
+
+
+
+
+

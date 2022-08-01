@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/logos/railroads/f_krbt/krbt_logo01a"
+	"$alphatest" 1
+	"$translucent" 1
+}

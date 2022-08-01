@@ -1,0 +1,12 @@
+
+
+vertexlitgeneric
+{
+
+	$basetexture "models/logos/railroads/f_cprr/cprr_logo04a"
+
+	$alphatest 1
+	$alphatestreference 0.1
+	$allowalphatocoverage 1
+
+}

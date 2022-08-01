@@ -1,0 +1,10 @@
+vertexlitgeneric
+{
+
+    $basetexture "models/logos/railroads/f_hmc/suffixes/sfix_acu"
+
+    $alphatest 1
+    $alphatestreference 0.5
+    $allowalphatocoverage 1
+
+}

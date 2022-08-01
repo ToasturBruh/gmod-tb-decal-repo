@@ -1,0 +1,10 @@
+vertexlitgeneric
+{
+
+    $basetexture "models/logos/railroads/f_hmc/numbering/num_3"
+
+    $alphatest 1
+    $alphatestreference 0.5
+    $allowalphatocoverage 1
+
+}

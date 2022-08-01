@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{
+
+	$basetexture "models/logos/railroads/f_mrss/mrss_tga01a"
+
+	$alphatest 1
+	$alphatestreference 0.2
+	$allowalphatocoverage 1
+}

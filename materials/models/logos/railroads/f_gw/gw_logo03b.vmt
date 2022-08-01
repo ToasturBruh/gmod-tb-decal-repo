@@ -1,0 +1,12 @@
+
+
+vertexlitgeneric
+{
+
+	$basetexture "models/logos/railroads/f_gw/gw_logo03b"
+
+	$alphatest 1
+	$alphatestreference 0.1
+	$allowalphatocoverage 1
+
+}
