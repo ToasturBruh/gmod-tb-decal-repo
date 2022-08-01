@@ -1,0 +1,12 @@
+
+
+vertexlitgeneric
+{
+
+	$basetexture "models/logos/fonts/goudy_old_style/5"
+
+	$alphatest 1
+	$alphatestreference 0.5
+	$allowalphatocoverage 1
+
+}

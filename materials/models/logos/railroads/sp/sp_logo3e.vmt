@@ -1,0 +1,11 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/logos/railroads/sp/sp_logo3e_d
+
+	$alphatest 1
+	$alphatestreference 0.5
+	$allowalphatocoverage 1
+
+}

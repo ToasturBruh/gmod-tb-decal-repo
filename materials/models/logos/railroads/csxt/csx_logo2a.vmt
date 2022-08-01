@@ -1,0 +1,25 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/logos/railroads/csxt/csx_logo2a_d
+
+	$alphatest 1
+	$alphatestreference 0.5
+	$allowalphatocoverage 1
+
+	$color2 "{ 16 79 140 }"
+	Proxies
+	{
+
+		Equals
+		{
+
+			srcvar1 $color2
+			resultVar $color
+
+		}
+
+	}
+
+}

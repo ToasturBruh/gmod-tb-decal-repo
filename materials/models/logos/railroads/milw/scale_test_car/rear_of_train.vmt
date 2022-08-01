@@ -1,0 +1,11 @@
+
+vertexlitgeneric
+{
+
+	$basetexture "models/logos/railroads/milw/scale_test_car/rear_of_train"
+
+	$alphatest 1
+	$alphatestreference 0.1
+	$allowalphatocoverage 1
+
+}

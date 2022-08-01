@@ -1,0 +1,11 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/logos/info/compshoe_misc1c_d
+
+	$alphatest 1
+	$alphatestreference 0.1
+	$allowalphatocoverage 1
+
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/logos/companies/morrisonknudsen/morrison-knudsen-text-2"
+	"$alphatest" 1
+	"$translucent" 1
+}

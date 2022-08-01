@@ -1,0 +1,24 @@
+vertexlitgeneric
+{
+
+	$basetexture "models/logos/railroads/prr/f_prr_logo01a"
+
+	$alphatest 1
+	$alphatestreference 0.5
+	$allowalphatocoverage 1
+
+	$color2 "[ 1 1 1 ]"
+	Proxies
+	{
+
+		Equals
+		{
+
+			srcvar1 $color2
+			resultVar $color
+
+		}
+
+	}
+
+}

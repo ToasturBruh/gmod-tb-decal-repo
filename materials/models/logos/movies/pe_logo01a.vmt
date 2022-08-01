@@ -1,0 +1,12 @@
+
+
+vertexlitgeneric
+{
+
+	$basetexture "models/logos/movies/pe_logo01a"
+
+	$alphatest 1
+	$alphatestreference 0.1
+	$allowalphatocoverage 1
+
+}

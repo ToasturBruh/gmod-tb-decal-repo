@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/logos/railroads/pn/pn_fulltext"
+	$alphatest 1
+	$alphatestreference 0.1
+	$allowalphatocoverage 1
+
+}

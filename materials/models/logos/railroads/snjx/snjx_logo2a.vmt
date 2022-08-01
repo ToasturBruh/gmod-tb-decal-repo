@@ -1,0 +1,25 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/logos/railroads/snjx/snjx_logo2a_d
+
+	$alphatest 1
+	$alphatestreference 0.1
+	$allowalphatocoverage 1
+
+	$color2 "[ 1 1 1 ]"
+	Proxies
+	{
+
+		Equals
+		{
+
+			srcvar1 $color2
+			resultVar $color
+
+		}
+
+	}
+
+}

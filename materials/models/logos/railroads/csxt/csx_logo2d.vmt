@@ -1,0 +1,11 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/logos/railroads/csxt/csx_logo2c_d
+
+	$alphatest 1
+	$alphatestreference 0.5
+	$allowalphatocoverage 1
+
+}

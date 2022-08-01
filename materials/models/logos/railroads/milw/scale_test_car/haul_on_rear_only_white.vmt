@@ -1,0 +1,11 @@
+
+vertexlitgeneric
+{
+
+	$basetexture "models/logos/railroads/milw/scale_test_car/haul_on_rear_only_white"
+
+	$alphatest 1
+	$alphatestreference 0.1
+	$allowalphatocoverage 1
+
+}

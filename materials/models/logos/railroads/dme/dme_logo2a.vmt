@@ -1,0 +1,25 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/logos/railroads/dme/dme_logo2a_d
+
+	$alphatest 1
+	$alphatestreference 0.1
+	$allowalphatocoverage 1
+
+	$color2 "{ 0 29 147 }"
+	Proxies
+	{
+
+		Equals
+		{
+
+			srcvar1 $color2
+			resultVar $color
+
+		}
+
+	}
+
+}

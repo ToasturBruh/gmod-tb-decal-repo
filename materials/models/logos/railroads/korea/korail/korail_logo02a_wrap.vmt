@@ -1,0 +1,11 @@
+
+vertexlitgeneric
+{
+
+	$basetexture "models/logos/railroads/korea/korail/korail_logo02a_wrap"
+
+	$alphatest 1
+	$alphatestreference 0.2
+	$allowalphatocoverage 1
+
+}

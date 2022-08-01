@@ -1,0 +1,25 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/logos/railroads/ir/ir_logo1a_d
+
+	$alphatest 1
+	$alphatestreference 0.1
+	$allowalphatocoverage 1
+
+	$color2 "{ 229 28 35 }"
+	Proxies
+	{
+
+		Equals
+		{
+
+			srcvar1 $color2
+			resultVar $color
+
+		}
+
+	}
+
+}

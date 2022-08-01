@@ -1,0 +1,29 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/logos/misc/hazards/chevron_2a_d
+
+	$alphatest 1
+	$alphatestreference 0.5
+	$allowalphatocoverage 1
+
+	$selfillum 1
+	$selfillummask models/logos/misc/hazards/chevron_2a_i
+	$selfillumtint "[ 5 0 0 ]"
+
+	$color2 "[ 1 1 1 ]"
+	Proxies
+	{
+
+		Equals
+		{
+
+			srcvar1 $color2
+			resultVar $color
+
+		}
+
+	}
+
+}

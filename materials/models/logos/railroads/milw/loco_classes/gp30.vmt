@@ -1,0 +1,11 @@
+
+vertexlitgeneric
+{
+
+	$basetexture "models/logos/railroads/milw/loco_classes/gp30"
+
+	$alphatest 1
+	$alphatestreference 0.1
+	$allowalphatocoverage 1
+
+}

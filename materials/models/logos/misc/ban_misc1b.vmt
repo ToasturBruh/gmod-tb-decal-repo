@@ -1,0 +1,23 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/logos/misc/ban_misc1a_d
+
+	$translucent 1
+
+	$color2 "{ 240 0 0 }"
+	Proxies
+	{
+
+		Equals
+		{
+
+			srcVar1 $color2 // Disable Proxies
+			resultVar $color
+
+		}
+
+	}
+
+}

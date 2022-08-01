@@ -1,0 +1,27 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/logos/railroads/cnw/cnw_logo1a_d
+
+	// $translucent 1
+	// $alpha 1
+	$alphatest 1
+	$alphatestreference 0.9
+	// $allowalphatocoverage 1
+
+	$color2 "[ 1 1 1 ]"
+	Proxies
+	{
+
+		Equals
+		{
+
+			srcvar1 $color2
+			resultVar $color
+
+		}
+
+	}
+
+}

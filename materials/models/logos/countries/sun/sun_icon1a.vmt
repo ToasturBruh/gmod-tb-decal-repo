@@ -1,0 +1,11 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/logos/countries/sun_icon1a_d
+
+	$alphatest 	1
+	$alphatestreference	0.2
+	$allowalphatocoverage	1
+
+}

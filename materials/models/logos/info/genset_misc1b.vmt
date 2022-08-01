@@ -1,0 +1,13 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/logos/info/genset_misc1b_d
+
+	$halflambert 1
+
+	$alphatest 1
+	$alphatestreference 0.5
+	$allowalphatocoverage 1
+
+}

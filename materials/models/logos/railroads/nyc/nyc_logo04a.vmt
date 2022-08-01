@@ -1,0 +1,11 @@
+
+
+vertexlitgeneric
+{
+
+	$basetexture "models/logos/railroads/nyc/nyc_logo04a"
+
+	$alphatest 1
+	$alphatestreference 0.1
+	$allowalphatocoverage 1
+}

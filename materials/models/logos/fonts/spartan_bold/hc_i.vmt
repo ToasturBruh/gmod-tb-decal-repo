@@ -1,0 +1,11 @@
+
+vertexlitgeneric
+{
+
+	"$basetexture" "models/logos/fonts/spartan_bold/hc_i"
+
+	$alphatest 1
+	$alphatestreference 0.5
+	$allowalphatocoverage 1
+
+}

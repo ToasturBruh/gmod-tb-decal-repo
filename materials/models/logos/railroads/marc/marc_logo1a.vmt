@@ -1,0 +1,25 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/logos/railroads/marc/marc_logo1a_d
+
+	$alphatest 1
+	$alphatestreference 0.2
+	$allowalphatocoverage 1
+
+	$color2 "{ 0 79 152 }"
+	Proxies
+	{
+
+		Equals
+		{
+
+			srcvar1 $color2
+			resultVar $color
+
+		}
+
+	}
+
+}

@@ -1,0 +1,10 @@
+
+vertexlitgeneric
+{
+
+	$basetexture "models/logos/railroads/england/br/br_gill_sans"
+
+	$alphatest 1
+	$alphatestreference 0.5
+	$allowalphatocoverage 1
+}

@@ -1,0 +1,11 @@
+
+vertexlitgeneric
+{
+
+	$basetexture "models/logos/railroads/bar/bar_red"
+
+	$alphatest 1
+	$alphatestreference 0.5
+	$allowalphatocoverage 1
+
+}

@@ -1,0 +1,21 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/logos/info/generator_misc1c_d
+
+	$color2 "[ 1 1 1 ]"
+	Proxies
+	{
+
+		Equals
+		{
+
+			srcvar1 $color2
+			resultVar $color
+
+		}
+
+	}
+
+}
