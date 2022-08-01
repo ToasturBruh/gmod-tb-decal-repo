@@ -6,7 +6,7 @@ A public repository for everyone's decals real or fictional.
 
 > Railroad folders MUST be the railroad's reporting mark, real or fictional.
 
-> Any new folders for fictional railroads # MUST # be prefixed with "f_". (e.g. "f_lpsx") 
+> Any new folders for fictional railroads MUST be prefixed with "f_". (e.g. "f_lpsx") 
 
 > Your VMT and VTF MUST be in the same spot and placed in the respective location (real or fictional).
 
