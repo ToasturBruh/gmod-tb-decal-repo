@@ -14,10 +14,12 @@ A public repository for everyone's decals, real or fictional.
 > Keep it PG
 
 # Good etiquette for textures
-> Set "Normal Format" to DXT1 and "Alpha Format" to DXT3 unless you REALLY need full alpha (you shouldn't).
+> Set "Normal Format" to DXT1 and "Alpha Format" to DXT5.
 
 > Most decals don't need to be over 1024x1024.
 
 > Your decal should to to the EDGES of the texture (as much as proportionally possible).
+
+> If possible, trim tops/sides off texture if it's empty space, e.g. if it's wider than it is long.
 
 > Individual letters/numbers should not exceed 512x512
