@@ -1,7 +1,7 @@
 # Garry's Mod Trainbuild Decal Repository
 A public repository for everyone's decals, real or fictional.
 
-If your textures are missing from the original pack, it was removed due to poor texture management. If you fix the textures following the rules below, feel free to pull request them.
+If your textures from the original pack are missing, it was removed due to poor texture management. If you fix the textures following the rules below, feel free to pull request them. The deleted packs can be found in .rar files in their original location.
 
 # Rules for PRing decals
 > Your image MUST be less than 4096x4096 (you seriously shouldn't need anything above 1024x1024).
