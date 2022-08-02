@@ -12,3 +12,10 @@ A public repository for everyone's decals, real or fictional.
 > Your VMT and VTF MUST be in the same spot and placed in the respective location (real or fictional).
 
 > Keep it PG
+
+# Good etiquette for textures
+> Set "Normal Format" to DXT1 and "Alpha Format" to DXT3 unless you REALLY need full alpha (you shouldn't).
+
+> Most decals don't need to be over 1024x1024.
+
+> Your decal should to to the EDGES of the texture (as much as proportionally possible).
