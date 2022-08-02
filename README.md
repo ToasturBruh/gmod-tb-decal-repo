@@ -2,7 +2,7 @@
 A public repository for everyone's decals real or fictional.
 
 # Rules for PRing decals
-> Your image MUST be less than 4k (4096x4096)
+> Your image MUST be less than 4k (4096x4096).
 > Exceptions may be made for long/wide decals, e.g. 256x4096.
 
 > Railroad folders MUST be the railroad's reporting mark, real or fictional.
