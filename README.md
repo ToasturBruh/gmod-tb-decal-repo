@@ -1,5 +1,5 @@
 # Garry's Mod Trainbuild Decal Repository
-A public repository for everyone's decals real or fictional.
+A public repository for everyone's decals, real or fictional.
 
 # Rules for PRing decals
 > Your image MUST be less than 4k (4096x4096).
