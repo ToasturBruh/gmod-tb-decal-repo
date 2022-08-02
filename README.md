@@ -19,3 +19,5 @@ A public repository for everyone's decals, real or fictional.
 > Most decals don't need to be over 1024x1024.
 
 > Your decal should to to the EDGES of the texture (as much as proportionally possible).
+
+> Individual letters/numbers should not exceed 512x512
