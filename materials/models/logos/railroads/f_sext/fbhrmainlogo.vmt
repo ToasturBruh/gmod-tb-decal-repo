@@ -1,0 +1,13 @@
+vertexlitgeneric
+{
+	"$basetexture" "models/logos/railroads/f_sext/fbhrmainlogo"
+	"$translucent" 1
+    $alphatest 1
+    $alphatestreference 0.5
+    $allowalphatocoverage 1
+}
+
+
+
+
+
