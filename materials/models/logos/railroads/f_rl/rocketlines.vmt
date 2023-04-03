@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models\logos\railroads\f_rl\rocketlineslogo1"
+	"$translucent" 1
+}
