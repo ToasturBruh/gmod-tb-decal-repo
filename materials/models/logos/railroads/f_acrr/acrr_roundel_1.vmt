@@ -1,5 +1,5 @@
 "VertexlitGeneric"
 {
- "$basetexture" "f_acrr/acrr_roundel_1"
-
+	"$basetexture" "f_acrr/acrr_roundel_1"
+	"$translucent" 1
 }
