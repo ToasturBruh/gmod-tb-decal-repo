@@ -1,0 +1,10 @@
+vertexlitgeneric
+{
+
+	$basetexture "models/logos/railroads/f_wafx/wafx_reporting"
+
+	$alphatest 1
+	$alphatestreference 0.1
+	$allowalphatocoverage 1
+
+}
