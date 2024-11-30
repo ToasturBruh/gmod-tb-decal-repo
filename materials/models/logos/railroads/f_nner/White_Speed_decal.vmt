@@ -1,7 +1,7 @@
 "LightmappedGeneric"
 {
 
-    $basetexture "models/logos/railroads/f_nner/speed_white"
+    $basetexture "models/logos/railroads/f_nner/White_Speed_decal.vmt"
 
     $alphatest 1
     $alphatestreference 0.5

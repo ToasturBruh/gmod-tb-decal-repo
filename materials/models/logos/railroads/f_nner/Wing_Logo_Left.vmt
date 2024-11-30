@@ -1,7 +1,7 @@
 "LightmappedGeneric"
 {
 
-    $basetexture "models/logos/railroads/f_nner/wing_left"
+    $basetexture "models/logos/railroads/f_nner/Wing_Logo_Left"
 
     $alphatest 1
     $alphatestreference 0.5
