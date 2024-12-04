@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+
+    $basetexture "models/logos/railroads/f_nner/reefer_decal"
+
+    $alphatest 1
+    $alphatestreference 0.5
+    $allowalphatocoverage 1
+}
