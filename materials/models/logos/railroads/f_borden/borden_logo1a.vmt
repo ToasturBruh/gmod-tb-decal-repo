@@ -1,0 +1,10 @@
+vertexlitgeneric
+{
+
+	$basetexture "models/logos/railroads/f_borden/borden_logo1a_d"
+
+	$alphatest 1
+	$alphatestreference 0.5
+	$allowalphatocoverage 1
+
+}

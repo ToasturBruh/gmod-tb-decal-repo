@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/logos/railroads/f_wtjs/wtjs"
+	"$translucent" 1
+	"$model" 1
+}
