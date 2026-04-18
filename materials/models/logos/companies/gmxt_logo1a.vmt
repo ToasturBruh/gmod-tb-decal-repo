@@ -1,0 +1,10 @@
+vertexlitgeneric
+{
+
+	$basetexture models/logos/companies/gmxt_logo1a_d
+
+	$alphatest 1
+	$alphatestreference 0.7
+	$allowalphatocoverage 1
+
+}
